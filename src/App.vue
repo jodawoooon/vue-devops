@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to DAUN JO App" />
+  <HelloWorld msg="Test Success! : Welcome to DAUN JO App" />
 </template>
 
 <script>
